@@ -1,3 +1,11 @@
+# AI Agent時代のWebアプリケーション開発環境
+Docker/Dockercompose/Devcontainer
+uv + Ruff（Python側）
+fnm + pnpm + Turbopack + Biome（Next.js側）
+TinyTeX（LaTeX系ツール）+ require package
+postgresql 
+
+
 # フロントエンド インストール手順
 
 ```bash
@@ -60,5 +68,7 @@ uv sync
 
 backエンドでインタプリンタとシンタックスハイライトが動作しなければ、コマンドパレットから「Python:Select interpreter」を実行します。
 
+
+あとでdevconatainer.jsonに追加してなにもしなくても動くようにする。
 
 
